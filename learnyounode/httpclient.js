@@ -5,4 +5,7 @@ http.get(url,function (response) {
 	response.on('data',function(data){
 		console.log(data);
 	});
-})
+	response.on('error', function(error){
+		console.log(error);
+	});
+});
