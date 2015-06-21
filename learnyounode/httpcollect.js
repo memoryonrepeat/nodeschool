@@ -1,5 +1,5 @@
 http = require('http');
-concat = require('concat-stream');
+//concat = require('concat-stream');
 bl = require('bl');
 url = process.argv[2];
 
