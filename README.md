@@ -1,4 +1,1 @@
-nodeschool
-==========
-
-My journey learning Node.js using Nodeschool
+###Solutions for various [Nodeschool](http://nodeschool.io/) workshops.###
