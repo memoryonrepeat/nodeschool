@@ -1,16 +1,16 @@
-##Solutions for various workshops
+## Solutions for various workshops
 
-###Resources:
+### Resources:
 - [nodeschool](http://nodeschool.io/#workshoppers)
 - [awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper)
 
-###Finished:
+### Finished:
 - learnyounode
-
-###Ongoing:
 - scope-chains-closures
 
-###Queueing:
+### Ongoing:
+
+### Pending:
 - **Debugging**
 	- node-debug-school (needs SmartOS)
 	- bug-clinic
