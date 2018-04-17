@@ -4,4 +4,5 @@ var promise = new Promise(function(fulfill, reject){
 
 promise.then(console.log);
 
+setTimeout(()=>{})
 console.log('MAIN PROGRAM');
